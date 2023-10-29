@@ -1,7 +1,7 @@
 "use client";
 
 import "react";
-import "./Login.css";
+import "../styles/Login.css";
 
 export default function Login() {
   const handleSignIn = () => {
